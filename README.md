@@ -547,7 +547,7 @@ The use of SQL scripts for creating the database allows for easy deployment in a
 
 ## References
 
-- Final Database Schema of Bookstore Management ([link](sql/schema.sql))
+- Final Database Schema of Bookstore Management ([link](https://github.com/ksmooi/mscs_db_rdbms/blob/main/sql/schema.sql))
 - Connolly, T., & Begg, C. (2014). *Database Systems: A Practical Approach to Design, Implementation, and Management*. Pearson. ([link](https://www.amazon.com/Database-Systems-Practical-Implementation-Management/dp/0132943263))
 - Elmasri, R., & Navathe, S. B. (2015). *Fundamentals of Database Systems*. Pearson. ([link](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779))
 - PostgreSQL Documentation. (2024). *PostgreSQL 16 Documentation*. ([link](https://www.postgresql.org/docs/))
