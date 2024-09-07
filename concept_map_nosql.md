@@ -81,3 +81,17 @@ The **Relational Problem** highlights the issues with relational databases in mo
 ## Conclusion:
 This text-based concept map organizes the key concepts from data warehousing and cubes to Big Data and NoSQL database models. It visually represents how data processing systems have evolved to handle modern challenges such as the data explosion and the relational problem.
 
+## References
+
+1. **Introduction to NoSQL** – *GeeksforGeeks*  
+   This article provides a comprehensive introduction to NoSQL databases, explaining their need, types, and how they differ from relational databases. It covers popular NoSQL databases and their use cases.  
+   Available at: [GeeksforGeeks - Introduction to NoSQL](https://www.geeksforgeeks.org/introduction-to-nosql/)
+
+2. **Introduction to NoSQL** – *Codecademy*  
+   A beginner-friendly guide that explains the fundamentals of NoSQL databases, including their types (Document, Key-Value, Graph, Column-based), features, and the scenarios where NoSQL is preferred over traditional relational databases.  
+   Available at: [Codecademy - Introduction to NoSQL](https://www.codecademy.com/article/introduction-to-nosql)
+
+3. **NoSQL Explained** – *MongoDB*  
+   This resource from MongoDB provides an in-depth explanation of NoSQL databases, covering the advantages and specific examples of NoSQL systems such as MongoDB, and how these databases manage unstructured and semi-structured data at scale.  
+   Available at: [MongoDB - NoSQL Explained](https://www.mongodb.com/resources/basics/databases/nosql-explained)
+
